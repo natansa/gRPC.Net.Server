@@ -34,3 +34,9 @@ Antes de rodar o servidor, certifique-se de ter:
 ```sh
 git clone https://github.com/seu-usuario/gRPC.Net.Server.git
 cd gRPC.Net.Server
+
+---
+
+## 🙋‍♂️ Autor
+
+Desenvolvido por [Natanael Sa Rodrigues](https://github.com/natansa)
